@@ -1,0 +1,6 @@
+Console.WriteLine("Введите цифру, обозначающую день недели");
+int day = Convert.ToInt32(Console.ReadLine());
+if (int day == 6; day == 7)
+Console.WriteLine(да);
+else (int day != 6; day != 7)
+Console.WriteLine(нет);
